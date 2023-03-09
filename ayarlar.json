@@ -1,0 +1,85 @@
+{
+"botSettings": {
+    "botToken": "",
+    "botVoiceChannel": "921803903488634931",
+    "botOwners": ["262310294749970433", "482541644944506880"],
+    "prefix": ".",
+    "activity": "Luxer 💚 Lore",
+    "status": "idle",
+    "setFooter": "Luxer 💚 Lore"
+},
+"mongoose": {
+    "mongoPath": ""
+},
+"guildSettings": {
+    "guildID": "921468836203622441",
+    "guildName": "deneme",
+    "tag": "deneme",
+    "invite": "discord.gg/"
+},
+"guildHammer": {
+    "jailHammer": "921803786887004200",
+    "banHammer": "921803786048114778",
+    "muteHammer": "921803787688091658",
+    "vmuteHammer": "921803787688091658",
+    "rolverici": "921803790364074074",
+    "auth": "921803790364074074",
+    "yts": ["921803790364074074"]
+},
+"guildLogs": {
+"banLogs": "941815219624230932",
+"jailLogs": "941815219624230932",
+"muteLogs": "941815219624230932",
+"vmuteLogs": "941815219624230932",
+"welcome": "941814182083444786",
+"rollog": "941815219624230932",
+"voiceLogs": "941815219624230932",
+"otoRoleLogs": "941815219624230932",
+"susLogs": "941815219624230932",
+"invLog": "941815225022312549",
+"yasaklikomutLogs": "941815219624230932",
+"messageLogs": "941815219624230932",
+"tagLogs": "941815219624230932",
+"spotifyChannel": "941815219624230932",
+"banLimit" : "3",
+"leavelogs": "941815219624230932",
+"chat": "921803950557106218"
+},
+
+"guildRoles": {
+    "jailRole": "921803835356360734",
+    "vmuteRole":"921803833791889418",
+    "muteRole": "921803832571363359",
+    "boosterRole": "921803843577188362",
+    "unregister": ["921803836937621535"],
+    "sus": "921803835356360734",
+    "cekilis": "921814899510882335",
+    "etkinlik": "921814904560828436"
+},
+"reg": {
+    "regHammer":"921803789592313936",
+    "erkekRoles": ["942014521353056277", "942021506521792553"],
+    "kariRoles": ["942014538360950785", "942014553372377108"],
+    "familyRole": "921803815387283508"
+
+},
+"yetkiliRole": {
+    "enAltYetkiliRole": "921803790364074074"
+},
+"emojiler": {
+    "onay": "<a:lor_tik:921829511723634688>",
+    "red": "<a:lor_iptal:921829513392947250>",
+    "join": "<a:luxer_join:942293455412015104>",
+    "leave": "<a:luxer_leave:942293458046050305>",
+    "banned": ""
+},
+"yasakliTag": {
+    "yasakliTagRole": "921803836220395520"
+},
+"ekstraRoles": {
+"vip": "921803816200986626",
+"lovers": "",
+"muzisyen": "",
+"sponsor": ""
+}
+}
